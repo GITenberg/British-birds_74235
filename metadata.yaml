@@ -1,0 +1,69 @@
+_repo: British-birds_74235
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Lodge, George Edward
+    aliases:
+    - Lodge, G. E. (George Edward)
+    - Lodge, George E.
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '35593'
+    url: http://www.gutenberg.org/2009/agents/35593
+    wikipedia: https://en.wikipedia.org/wiki/George_Edward_Lodge
+  - agent_name: Thorburn, Archibald
+    alias: Thorburn, A. (Archibald)
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '57335'
+    url: http://www.gutenberg.org/2009/agents/57335
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Thorburn
+  photographer:
+    agent_name: Lodge, R. B. (Reginald B.)
+    alias: Lodge, Reginald B.
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '34254'
+    url: http://www.gutenberg.org/2009/agents/34254
+creator:
+  authors:
+  - agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: https://en.wikipedia.org/wiki/William_Henry_Hudson
+  - agent_name: Beddard, Frank E. (Frank Evers)
+    alias: Beddard, Frank Evers
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '42155'
+    url: http://www.gutenberg.org/2009/agents/42155
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Evers_Beddard
+description: ''
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74235'
+  lccn: '22018916'
+language: en
+pgterms:marc904: https://archive.org/details/britishbirds00huds
+pgterms:marc905: 20221226111315hudson
+pgterms:marc906: '1921'
+pgterms:marc907: gb
+production_note: Peter Becker, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bLongmans, Green, and co., $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Great Britain'
+- !lcc 'QL'
+- GITenberg
+title: British birds
+url: http://www.gutenberg.org/ebooks/74235
